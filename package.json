@@ -1,0 +1,28 @@
+{
+  "name": "cryptopacktools",
+  "version": "1.0.0",
+  "description": "Abvos pack tools",
+  "engines": {
+    "node": ">=6.11.3"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Harper443/packtools.git"
+  },
+  "keywords": [
+    "abvos",
+    "serialization",
+    "binary",
+    "pack"
+  ],
+  "bugs": {
+    "url": "https://github.com/Harper443/packtools/issues"
+  },
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  }
+}
